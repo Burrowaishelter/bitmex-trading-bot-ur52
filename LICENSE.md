@@ -1,4 +1,4 @@
-# 
+# high-frequency bitmex trading bot | futures-arbitrage + auto-leverage offers the most advanced bitmex trading bot, with futures-arbitrage and auto-leverage. Ideal for professional
 
 
 
